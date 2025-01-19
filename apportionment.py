@@ -629,6 +629,8 @@ def main():
         print("ERROR")
         main()
 
+main()
+
 """
 def count_sheeps(sheep):
   # TODO May the force be with you
